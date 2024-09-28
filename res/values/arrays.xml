@@ -14,5 +14,21 @@
         <item>wallpaper_2</item>
         <item>wallpaper_3</item>
         <item>wallpaper_4</item>
+        <item>google-pixel-8-haze-dark</item>
+        <item>google-pixel-8-haze-light</item>
+        <item>google-pixel-8-jade-dark</item>
+        <item>google-pixel-8-jade-light</item>
+        <item>google-pixel-8-licorice-dark</item>
+        <item>google-pixel-8-licorice-light</item>
+        <item>google-pixel-8-peony-dark</item>
+        <item>google-pixel-8-peony-light</item>
+        <item>google-pixel-8-pro-jade-dark</item>
+        <item>google-pixel-8-pro-jade-light</item>
+        <item>google-pixel-8-pro-licorice-dark</item>
+        <item>google-pixel-8-pro-licorice-light</item>
+        <item>google-pixel-8-pro-porcelain-dark</item>
+        <item>google-pixel-8-pro-porcelain-light</item>
+        <item>google-pixel-8-pro-sky-dark</item>
+        <item>google-pixel-8-pro-sky-light</item>
     </array>
 </resources>
